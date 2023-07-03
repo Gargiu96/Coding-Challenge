@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+Ciao a tutti,ho provato a svolgere ugualmente la coding challenge, ma ho avuto alcuni intoppi durante l'esecuzione.. 
+
+Alcune volte aggiustavo qualcosa, ma contemporaneamnete se ne rompevano altre.. 
+
+Sicuramente c'è qualcosa che ho sbagliato nella stesura del codice, ma spero che possa essere un buon "inizio", un punto di partenza per migliorare in futuro.
+
+Vi ringrazio in anticipo
+
+Luciano

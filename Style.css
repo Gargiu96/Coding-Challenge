@@ -1,0 +1,72 @@
+
+header{
+    text-align: center;
+    color: chartreuse;
+    font-size: 22px;
+}
+
+
+.Pulsanti{
+    text-align: center;
+    background-color: chartreuse;
+    border-radius: 6px;
+    height: 40px;
+    padding-top: 14px;
+}
+
+.Gino22{
+    font-size: 20px;
+    position: relative;
+    left: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.batteria1{
+    height: 30px;
+    width: 380px;
+    background-color: darkorange;
+    border-radius: 5px;
+}
+
+.Mike24{
+    font-size: 20px;
+    position: relative;
+    left: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;    
+    color: white;
+}
+
+.batteria2{
+    height: 30px;
+    width: 700px;
+    background-color:lime;
+    border-radius: 5px;
+}
+
+
+.Fede154{
+    font-size: 20px;
+    position: relative;
+    left: 400px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.batteria3{
+    height: 30px;
+    width: 180px;
+    background-color:red;
+    border-radius: 5px;
+}
+
+
+body{
+    background-image: url(background.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+}
